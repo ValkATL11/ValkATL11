@@ -1,43 +1,120 @@
-# Hi 👋! I'm ATL
 
-\<p align="right">
-&#x20; \<img src="[https://i.ibb.co/fVMsGDLb/Th-c-T-nh-Neon-C-ng-M-o-Nh.gif](https://i.ibb.co/fVMsGDLb/Th-c-T-nh-Neon-C-ng-M-o-Nh.gif)" height="150" alt="ATL Avatar"/>
-\</p>
+<!-- ==================== HEADER ==================== -->
 
-Developer interested in software development, competitive programming, web development, and automation.
+<h1 align="center">Hey, I'm ATL 👋</h1>
 
-Always learning, exploring new technologies, and building things.
+<h3 align="center">
+  Developer · Competitive Programmer · Tech Enthusiast
+</h3>
 
----
+<p align="center">
+  <img src="https://i.ibb.co/fVMsGDLb/Th-c-Tn-Neon-C-ng-M-o-Nh.gif" width="145" alt="ATL Avatar" />
+</p>
 
-### 💻 Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Building+software+and+automation;Exploring+algorithms+and+data+structures;Learning+something+new+every+day" alt="Typing SVG" />
+</p>
 
-\<p align="left">
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)" height="32" alt="C++"/>
-&#x20; \<img src="[https://skillicons.dev/icons?i=c](https://skillicons.dev/icons?i=c)" height="32" alt="C"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)" height="32" alt="C#"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" height="32" alt="Python"/>
-&#x20; \<img src="[https://skillicons.dev/icons?i=rust](https://skillicons.dev/icons?i=rust)" height="32" alt="Rust"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" height="32" alt="JavaScript"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)" height="32" alt="TypeScript"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" height="32" alt="HTML5"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)" height="32" alt="CSS3"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" height="32" alt="React"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg)" height="32" alt="Electron"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)" height="32" alt="Node.js"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" height="32" alt="Git"/>
-&#x20; \<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" height="32" alt="GitHub"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg)" height="32" alt="PyTorch"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)" height="32" alt="MySQL"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg)" height="32" alt="Lua"/>
-\</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ValkATL11&label=PROFILE+VIEWS&color=22D3EE&style=for-the-badge" alt="Profile views" />
+</p>
 
----
 
-### 🌐 Connect with me
+<!-- ==================== ABOUT ==================== -->
 
-\<p align="left">   \<a href="mailto\:hhoangwork11\@gmail.com">     \<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" height="35" alt="Gmail"/>   \</a>   \<a href="[https://tryhackme.com/p/hhoangwork11](https://tryhackme.com/p/hhoangwork11)">     \<img src="[https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge\&logo=tryhackme\&logoColor=white)" height="35" alt="TryHackMe"/>   \</a>   \<a href="[https://github.com/ValkATL11](https://github.com/ValkATL11)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" height="35" alt="GitHub"/>   \</a> \</p>
+## 🧑‍💻 About Me
 
----
+Hey, I'm **ATL**!
 
-\<p align="center">   \<i>ValkATL11 · Keep building, keep improving. 🚀\</i> \</p>
+I'm a developer interested in software development, competitive programming, web development, and automation.
+
+
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,rust,js,ts,java,lua&theme=dark" />
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind,vite&theme=dark" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,mysql,sqlite,nginx,linux,pytorch&theme=dark" />
+</p>
+
+
+<!-- ==================== SOCIALS ==================== -->
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="mailto:hhoangwork11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/hhoangwork11">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://github.com/ValkATL11">
+    <img src="https://img.shields.io/badge/GitHub-ValkATL11-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/ValkATL11">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=ValkATL11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github" />
+  </a>
+  <a href="https://github.com/ValkATL11">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ValkATL11&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&card_width=320" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=ValkATL11&theme=transparent&hide_border=true&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" />
+</p>
+
+
+
+
+<!-- ==================== CONTRIBUTIONS ==================== -->
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ValkATL11/ValkATL11/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ValkATL11/ValkATL11/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ValkATL11/ValkATL11/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+
+<p align="center">
+  <i>“Learn continuously. Build consistently. Improve every day.”</i>
+</p>
+
+
