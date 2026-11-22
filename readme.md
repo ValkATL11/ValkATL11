@@ -7,9 +7,7 @@
   Developer · Competitive Programmer · Tech Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://i.ibb.co/fVMsGDLb/Th-c-Tn-Neon-C-ng-M-o-Nh.gif" width="145" alt="ATL Avatar" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Building+software+and+automation;Exploring+algorithms+and+data+structures;Learning+something+new+every+day" alt="Typing SVG" />
